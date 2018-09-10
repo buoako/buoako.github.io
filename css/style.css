@@ -1,0 +1,74 @@
+html{
+    background-color: #FCCA46;
+    font-family: 'Nanum Gothic Coding';
+}
+h1{
+    color: #233D4D;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    margin: 30px;
+}
+h2 {
+    text-shadow:
+   -1px -1px 0 #FE7F2D,  
+    1px -1px 0 #FE7F2D,
+    -1px 1px 0 #FE7F2D,
+     1px 1px 0 #FE7F2D;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    color: ##FCCA46;;
+    margin: 30px;
+    padding: 20px;
+    border: 50px dotted #233D4D;
+    background-color: #579C87;
+}
+h3 {
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    color: #FCCA46;
+    margin: 30px;
+    padding: 50px 10px 50px 10px;
+    border: 50px solid #FE7F2D;
+    background-color: #233D4D;
+}
+h4 {
+    border: 20px double #233D4D;
+    background-color: #A1C181;
+    margin: 30px;
+    padding: 50px 10px 50px 10px;
+    text-align: center;
+    font-size: 40px;
+    text-shadow:   
+        1px 0px #579C87, 0px 1px #233D4D,
+        2px 1px #579C87, 1px 2px #233D4D,
+        3px 2px #579C87, 2px 3px #233D4D,
+        4px 3px #579C87, 3px 4px #233D4D,
+        5px 4px #579C87, 4px 5px #233D4D,
+        6px 5px #579C87, 5px 6px #233D4D,
+        7px 6px #579C87, 6px 7px #233D4D,
+        8px 7px #579C87, 7px 8px #233D4D,
+        8px 8px #579C87;
+}
+h5{
+    text-shadow:
+    2px 2px 0 #579C87;
+    border: 25px dashed #FE7F2D;
+    background-color: #233D4D;
+    color: #FE7F2D;
+    margin: 30px;
+    padding: 50px 10px 50px 10px;
+    text-align: center;
+    font-size: 30px;
+}
+h6 {
+    margin: 30px;
+    color: #FCCA46;
+    padding: 50px 10px 50px 10px;
+    background-color: #FE7F2D;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 10px 15px #233D4D;
+}
