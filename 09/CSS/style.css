@@ -1,0 +1,35 @@
+html, body {
+  color: pink;
+  font-family: 'Karla', sans-serif;
+  font-size: 5px;
+  height: 100%;
+  text-align: left;
+  background-color: #f7f0ca;
+}
+
+
+
+.a {
+  position: absolute;
+  transform-origin: center center;
+}
+
+.b {
+  position: absolute;
+  transform-origin:  center center;
+}
+
+.c {
+  position: absolute;
+  transform-origin: center center;
+}
+
+.d {
+  position: absolute;
+  transform-origin: center center;
+}
+
+.e {
+  position: absolute;
+  transform-origin: center center;
+}
