@@ -9,11 +9,3 @@ window.onload = function () {
     })
 
 };
-/*counting*/
-
-var count = anime({
-  targets: '#count input',
-  value: 1000,
-  round: 1,
-  easing: 'easeInOutExpo'
-});
