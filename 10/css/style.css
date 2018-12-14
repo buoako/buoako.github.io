@@ -136,10 +136,12 @@ width: 100%;
   color: #aa210e;
   align-items: center;
   display: flex;
-  width: 100%;
+  width: 1200px;
   height: 300px;
  justify-content: center;
  flex-direction: column; 
+ margin-left: 175px;
+ margin-right: 100px;
 }
 
 .shadow{
